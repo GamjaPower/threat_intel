@@ -41,6 +41,7 @@ def resolve_domain():
                 for answer in answers:
                     print answer.address, threat_intel_domain
                     f.write(answer.address+','+threat_intel_domain+'\n')
+                    f.flush()
             except Exception:
                 pass
             finally:
