@@ -1,0 +1,4 @@
+http://www.nothink.org/blacklist/blacklist_malware_dns.txt
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+http://mirror1.malwaredomains.com/files/BOOT
+http://www.malwaredomainlist.com/hostslist/hosts.txt
